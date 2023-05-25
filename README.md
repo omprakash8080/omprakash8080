@@ -94,8 +94,6 @@ Arrangement of the Hijri and Gregorian months with a counter for the remaining d
   <a href="https://apps.apple.com/ma/app/%D8%A7%D9%84%D8%AA%D9%82%D9%88%D9%8A%D9%85-%D8%A7%D9%84%D9%87%D8%AC%D8%B1%D9%8A-%D8%A7%D9%84%D9%85%D9%8A%D9%84%D8%A7%D8%AF%D9%8A/id1635502757" target="_blank"><img alt="App Store" src="https://img.shields.io/badge/Get%20it%20on%20app%20store-black.svg?style=for-the-badge&logo=app-store&logoColor=white" /></a><p>
 <hr>
 
-
-
 ### Instarem (old version)
 
 💸Send money overseas simply with award-winning money sending app, Instarem.
@@ -107,6 +105,14 @@ We're here to make your life a little bit easier. We’re all about quick and ea
 
 <hr>
 
+### ShopStyle
+
+The ShopStyle app is the most convenient way to discover and shop thousands of brands and stores. Find what you want—plus unique ways to purchase and save—all in one place. Browse styles from Anthropologie, Saint Laurent, Rue La La, Prada, and more. We’ll alert you when your favorite finds go on sale, and you can earn up to 15% Cash Back from Rakuten when you shop.
+
+<p>
+ <a href="https://play.google.com/store/apps/details?id=com.shopstyle" target="_blank"><img alt="Google Play" src="https://img.shields.io/badge/Get%20it%20on%20google%20play-blue.svg?style=for-the-badge&logo=google-play" /></a> <a href="https://apps.apple.com/us/app/shopstyle-fashion-cash-back/id314673827" target="_blank"><img alt="App Store" src="https://img.shields.io/badge/Get%20it%20on%20app%20store-black.svg?style=for-the-badge&logo=app-store&logoColor=white" /></a><p>
+
+<hr>
 
 
 
